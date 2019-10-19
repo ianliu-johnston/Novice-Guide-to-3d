@@ -1,6 +1,9 @@
 # A Novice's guide to SLA 3D Printing Written by a Novice
 # Intro 
 I was introduced to SLA printing by watching Boulder Creek Railroad youtube videos about diaorama making. Luke Towan was able to create incredibly detailed objects with his 3D resin printer. There's a limit to how small I can sculpt, so I decided to take the plunge and purchase the machine he used, the "Anycubic Photon SLA 3D printer". It was around $300. The process has taken several days, tons of research, more than a dozen failed prints, a 250mL bottle of resin, and a punctured FET. After all that, I have been able to finally create some successful prints. This machine definitely comes with a learning curve, so if a youtube video makes it seem easy, it's because they're already good at generating prints. Keep in mind that the printer itself is easy to use if you keep it clean and maintained, but the way you treat your 3D model will determine the success of your print.
+# About
+Artist, engineer, maker, etc. 
+[Thingiverse Account](https://www.thingiverse.com/Concati)
 # Specs
 * **Printer**: [Anycubic Photon SLA 3D printer](https://www.anycubic.com/products/anycubic-photon-3d-printer?variant=29419687870524)
 * **Resin**: Anycubic 3D printing UV sensitive Resin basic Green 250 mL, UV wavelength 405nm
