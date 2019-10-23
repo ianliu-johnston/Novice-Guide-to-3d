@@ -261,6 +261,7 @@ This is the most common failure and is tedious, but essential. **If you had a fa
 * [Google sheet for looking up custom settings for various resins of different brands](https://docs.google.com/spreadsheets/d/1crvzMnt_8NJXAsABinoIhcOjE8l3h7s0L82Zlh1vkL8/edit#gid=0)
 
 ## How To's
+* [Excellent guide to anycubic photon](https://github.com/Photonsters/anycubic-photon-docs/blob/master/FAQ.md)
 * [Boulder Creek Railroad overview](https://www.youtube.com/watch?v=1tnDItw0ZLc)
 * [3d print farm youtube channel](https://www.youtube.com/channel/UC5k3TJL8ud4jh7863gjywPQ/videos)
 * *[ChiTuBox Tutorials from 3DPrintingPro on Youtube](https://www.youtube.com/watch?v=TTZpvhfaNWY&list=PLC4QzbTxrEF-fA1OC_-zE_4f6n1K-w2SS)*: These videos are incredibly helpful
@@ -271,3 +272,6 @@ This is the most common failure and is tedious, but essential. **If you had a fa
 * [Overview for stereolithography (SLA) printing from formlabs](https://formlabs.com/blog/ultimate-guide-to-stereolithography-sla-3d-printing/)
 * [Another overview for SLA from 3dhubs.com](https://www.3dhubs.com/knowledge-base/introduction-sla-3d-printing/) Interesting quote:
 _In bottom-up SLA printers, things are more complicated. Overhangs and bridges still need to be supported, but minimizing the cross-sectional area of each layer is the most crucial criterion: the forces applied to the part during the peeling step may cause it to detach from the build platform. These forces are proportional to the cross-sectional area of each layer. For this reason, parts are oriented in an angle and the reduction of support is not a primary concern._
+
+## Troubleshooting 3D models
+* [Fixing non-manifolds](http://3dprintingninja.blogspot.com/2014/12/non-manifolds-automatic-fixing-methods.html)
